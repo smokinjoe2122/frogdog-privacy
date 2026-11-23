@@ -1,0 +1,2 @@
+# frogdog-privacy
+Privacy Details
