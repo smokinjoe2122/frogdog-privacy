@@ -26,7 +26,7 @@ If you purchase LocalLens through Google Play, Google processes your payment and
 
 ## Contact and deletion
 
-If you email us, we receive your email address and the information you include, and use it to respond to your request. You can ask us to delete your correspondence or other personal information you have provided to us by contacting **josepgrtischer@gmail.com**. We will respond subject to applicable legal requirements.
+If you email us, we receive your email address and the information you include, and use it to respond to your request. You can ask us to delete your correspondence or other personal information you have provided to us by contacting **josephrtischer@gmail.com**. We will respond subject to applicable legal requirements.
 
 To remove data stored by LocalLens on your device, clear the app's storage in Android settings or uninstall the app. Data held by third parties or in device backups is subject to those services' settings and policies.
 
