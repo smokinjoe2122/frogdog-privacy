@@ -37,4 +37,4 @@ We may update this policy as LocalLens or its data practices change. We will pos
 ## Contact us
 
 FrogDog  
-Email: [josepgrtischer@gmail.com](mailto:josephrtischer@gmail.com)
+Email: [josephrtischer@gmail.com](mailto:josephrtischer@gmail.com)
